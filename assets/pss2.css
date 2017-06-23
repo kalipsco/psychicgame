@@ -1,0 +1,16 @@
+#container{
+	width: 50%;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #dddddd;
+	margin: 10% auto;
+	text-align: center;
+}
+body {
+
+	background-image: url("cb2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
